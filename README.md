@@ -1,0 +1,1 @@
+This site has an syntax error in `gatsby-config.js` that will cause the dev server to fail when running `npm run start`
